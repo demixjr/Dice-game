@@ -43,3 +43,9 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+@media (max-width:680px){
+  .dice{
+    display: inline;
+  }
+}
